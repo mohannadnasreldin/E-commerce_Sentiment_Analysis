@@ -54,7 +54,7 @@ To run this project, you will need the following:
 1. Clone the repository:
 
  ```
-   git clone https://github.com/your-username/ecommerce-sentiment-analysis.git
+   git clone https://github.com/mohannadnasreldin/ecommerce-sentiment-analysis.git
  ```
 
 
