@@ -23,35 +23,6 @@ To run this project, you will need the following:
 ## Installation
 
 1. Clone the repository:
-Sure! Here's an example README.md file for an e-commerce project with Sentiment Analysis implemented in PHP:
-
-vbnet
-
-# E-commerce with Sentiment Analysis
-
-This is an e-commerce project with Sentiment Analysis implemented using PHP. The project allows users to browse and purchase products while also analyzing the sentiment of customer reviews.
-
-## Features
-
-- User Registration and Authentication: Users can create accounts and log in to the e-commerce platform.
-- Product Listings: Display a list of available products with details such as name, price, and description.
-- Shopping Cart: Users can add products to their shopping cart and proceed to checkout.
-- Order Management: Admin users can manage orders, mark them as shipped, and view order history.
-- Sentiment Analysis: Customer reviews are analyzed for sentiment using a pre-trained sentiment analysis model.
-- Dashboard: Provides an overview of sales, customer feedback, and sentiment analysis results.
-
-## Prerequisites
-
-To run this project, you will need the following:
-
-- PHP (version X.X.X)
-- Web server (Apache, Nginx, etc.)
-- MySQL database (or any other compatible database)
-- Sentiment analysis model or API (e.g., TensorFlow, Sentiment API)
-
-## Installation
-
-1. Clone the repository:
 
  ```
    git clone https://github.com/mohannadnasreldin/ecommerce-sentiment-analysis.git
